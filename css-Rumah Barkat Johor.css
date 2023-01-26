@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* Header Section */
+
+marquee {color:#black ; background-color:#3B5E84 ; text-align:center ;}
+
+.social-sites {display:inline-block; position:relative; margin-left:300px; top:-20px;}
+
+td a {font-size:25px; color:black; text-decoration: none;}
+
+tr {outline-style: double;}
+
+a:hover {font-size:35px;}
+
+
+
+
+
+/* 1st Section */
+main {background-color:#3B5E84; border-bottom-style:groove ; padding:10px; margin:10px; width:70%; float:left; border-radius:8px ; outline-style: double; color:white;}
+
+.post-one {color:#black; padding:8px;}
+
+h1 {font-family:"Times New Romen"; background-color:#6B847A ;}
+.post-one p {text-align: justify;}
+
+
+
+
+
+/* Sidebar Section */
+.sidebar-home {background-color:#3B5E84; padding:5px; width:22%; float:right ; border-style:double ; border-radius:8px; margin:10px; color:white;}
+
+h2 {font-family:"Times New Romen"; background-color:#6B847A; text-decoration:none;}
+
+
+
+
+
+
+/* Footer */
+.footer-end1 {background-color:#3B5E84; padding:14px 24px; border-radius: 8px; outline-style:double; clear:both; margin:15px; text-align:center; color:white;}
+p {text-align: center;}
